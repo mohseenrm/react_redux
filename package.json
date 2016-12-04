@@ -1,0 +1,15 @@
+{
+  "name": "react_redux",
+  "version": "1.0.0",
+  "description": "learning react and redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "Mohseen Mukaddam",
+  "license": "MIT"
+}

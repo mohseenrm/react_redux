@@ -7,7 +7,8 @@ import {
 } from 'chai';
 
 import reducer from '../src/reducer';
-
+// https://getpocket.com/a/read/1037759695
+// https://github.com/reactjs/redux/blob/master/docs/basics/Reducers.md
 describe('reducer', () => {
 
   it('handles SET_ENTRIES', () => {

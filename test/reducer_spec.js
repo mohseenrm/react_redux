@@ -9,6 +9,7 @@ import {
 import reducer from '../src/reducer';
 // https://getpocket.com/a/read/1037759695
 // https://github.com/reactjs/redux/blob/master/docs/basics/Reducers.md
+// http://redux.js.org/docs/basics/ExampleTodoList.html
 describe('reducer', () => {
 
   it('handles SET_ENTRIES', () => {

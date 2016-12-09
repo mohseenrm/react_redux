@@ -101,5 +101,5 @@ describe('reducer', () => {
       winner: 'Trainspotting'
     }));
   });
-
+  
 });
